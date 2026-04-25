@@ -1,2 +1,2 @@
 # actions-test-repo
-Testing failing actions.
+Testing failing actions
